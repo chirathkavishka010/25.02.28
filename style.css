@@ -1,0 +1,17 @@
+<style> 
+        h1{background-color: brown;
+            color: beige;
+            text-decoration: dotted;
+            }
+        p1{background-color: rgb(170, 102, 75);
+        }
+
+
+        #check1{ background-color: rgb(17, 116, 30);}
+
+
+
+        .group1{background-color: rgb(84, 223, 41);}
+        .group2{background-color: rgb(51, 124, 9);}
+        .group3{background-color: rgb(5, 61, 17);}
+    </style>
